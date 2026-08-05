@@ -96,3 +96,22 @@ This research project involved collecting and organizing content from 10 leading
 - **YouTube** — Source platform for identifying and selecting expert videos
 - **LinkedIn** — Manual collection of posts from each expert's profile
 - **GitHub** — Repository structure, version control, and regular commits throughout the process
+
+---
+
+## Playbook — AI-Powered SEO Content Production SOP
+
+### What It Contains
+
+Built on top of the research above, the playbook is a practical, opinionated guide to producing and distributing content in the era of AI search. It includes:
+
+- **37 actionable recommendations** across 4 areas: content strategy, AEO optimization, tools and workflows, and publication and distribution — each with a cited source
+- **3 expert disagreements** with a clear position taken on each
+- **2 rejected ideas** from the research with reasoning
+- **3 original frameworks** not found in existing literature: the AI Citation Gap audit, the Contradiction Content strategy, and the Answer Ownership Map
+- **6 documented weaknesses** of the playbook itself
+- **1 expert critique** with reasoning and alternatives
+
+### File
+
+[research/playbook.md](https://github.com/PabDL717/100hires-portfolio/blob/main/research/playbook.md)
